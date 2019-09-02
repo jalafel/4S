@@ -1,4 +1,5 @@
 Reveal.initialize({
+    margin: -.1,
     controls: true,
     progress: true,
     center: true,
