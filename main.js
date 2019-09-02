@@ -1,4 +1,5 @@
 Reveal.initialize({
+    slideNumber: 'h.v',
     margin: -.1,
     controls: true,
     progress: true,
